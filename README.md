@@ -25,16 +25,19 @@ Performance de Vendedores por Região
 
 Análise de resultados individuais por vendedor.
 Identificação das regiões com maior volume de vendas e melhores margens de lucro.
+
 📊 Tecnologias Utilizadas
 Power BI – Para criação de relatórios interativos e análise de dados.
 Excel/CSV – Para ingestão de dados brutos.
 DAX – Para modelagem e cálculos de métricas personalizadas.
 Power Query – Para transformação e limpeza de dados.
+
 🚀 Como Utilizar
 Abra o arquivo do Power BI (.pbix).
 Atualize as fontes de dados (se necessário).
 Navegue pelas diferentes abas do dashboard para explorar os insights.
 Utilize os filtros para personalizar a análise conforme necessidade.
+
 🏅 Insights Esperados
 ✅ Aumento na eficiência de vendas.
 ✅ Melhora na tomada de decisão baseada em dados.
