@@ -8,6 +8,7 @@ Analisar os principais fatores que influenciam as vendas.
 Identificar os melhores vendedores e as regiões mais lucrativas.
 Fornecer insights para aumentar a performance comercial.
 Automatizar a análise e monitoramento de resultados de vendas.
+
 🏆 Funcionalidades
 Narrativa Inteligente
 
