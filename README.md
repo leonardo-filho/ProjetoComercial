@@ -1,5 +1,5 @@
 # ProjetoComercial
-
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 📌 Descrição do Projeto
 Este é um projeto de análise de dados desenvolvido no Power BI para acompanhar e analisar o desempenho comercial de vendas. O dashboard fornece uma visão detalhada sobre os principais fatores que influenciam as vendas, a performance de vendedores e os resultados por região e categoria de produto. O objetivo é fornecer insights estratégicos para otimizar o processo de vendas e aumentar a eficiência operacional.
 
